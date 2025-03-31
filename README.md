@@ -1,6 +1,6 @@
 # Health Insurance Premium Prediction
 
-[![Live App](https://img.shields.io/badge/Live_App-Click_Here-blue)](https://healthinsurance--cost--predictor.streamlit.app/)
+[![Live App](https://img.shields.io/badge/Live_App-Click_Here-blue)](https://health--insurance--cost--predictor.streamlit.app/)
 
 ## 📌 Overview
 This project is designed to predict health insurance premiums using machine learning techniques. The model analyzes key factors such as age, genetic risk, and other demographics to provide accurate premium estimates.
