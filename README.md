@@ -8,7 +8,7 @@ This project is designed to predict health insurance premiums using machine lear
 The web application, developed with **Streamlit**, offers an intuitive interface for users to enter relevant data and obtain premium predictions quickly.
 
 ## 🚀 Live Demo
-Experience the live application here: [Health Insurance Cost Predictor](https://healthinsurance-cost-predictor.streamlit.app/)
+Experience the live application here: [Health Insurance Cost Predictor](https://health--insurance--cost--predictor.streamlit.app/)
 
 ## 📂 Project Structure
 ```
