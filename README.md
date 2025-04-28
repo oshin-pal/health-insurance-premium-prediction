@@ -137,4 +137,4 @@ If you have suggestions for improvements, feel free to open an issue or submit a
 
 ## 🙋‍♂️ About
 
-Hii, I am Oshin! Created with 💙 to demonstrate business Finance & Health Insurance domain knowledge along with machine learning skills.
+Hii, I am Oshin! Created with 💙 to demonstrate Finance & Health Insurance domain knowledge along with machine learning skills.
