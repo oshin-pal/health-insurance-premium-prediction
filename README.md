@@ -130,3 +130,11 @@ Three machine learning models were trained and compared:
   - **RMSE:** 493.80
   - **Extreme errors:** 0.32%
 
+## 🤝 Contributing
+
+Contributions are welcome!  
+If you have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+## 🙋‍♂️ About
+
+Hii, I am Oshin! Created with 💙 to demonstrate business Finance & Health Insurance domain knowledge along with machine learning skills.
